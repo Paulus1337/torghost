@@ -12,6 +12,9 @@ Update Paulus88: Small change to build.sh to make it install with Python 3.11.
 
 `./build.sh`
 
+## Cleanup install
+`cd .. && rm -R torghost`
+
 ## Usage
 Torghost v3.1.1 usage:
 
