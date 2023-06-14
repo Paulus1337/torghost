@@ -1,6 +1,6 @@
 echo "Torghost installer v3.0.1"
 echo "Installing prerequisites "
-sudo apt-get install tor python3-pip python3.11 python3.11-dev -y
+sudo apt-get install tor python3-pip python3.11 python3.11-dev cython3 -y
 echo "Installing dependencies "
 sudo pip3 install -r requirements.txt 
 mkdir build
