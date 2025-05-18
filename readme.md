@@ -1,10 +1,10 @@
 ## What is TorGhost ?
 TorGhost is an anonymization script. TorGhost redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsafe packets exiting the system. Some packets like ping request can compromise your identity.
 
-Update Paulus88: Small change to build.sh to make it install with Python 3.11.
+Update Paulus1337: Small change to build.sh to make it install with Python 3.11.
 
 ## Build and install from source
-`git clone https://github.com/Paulus88/torghost.git`
+`git clone https://github.com/Paulus1337/torghost.git`
 
 `cd torghost`
 
